@@ -6,6 +6,7 @@ A captivating Sudoku game built with Python and Pygame, featuring an integrated 
 Features:
 User-Friendly Interface: Enjoy a simple and clean design for an engaging gaming experience.
 Built-in Sudoku Solver: Leverage an efficient backtracking algorithm to solve puzzles seamlessly.
+
 Getting Started
 Follow these steps to run the game:
 
